@@ -1,0 +1,29 @@
+{
+  "manifest_version": 2,
+  "name": "Earthy Flat",
+  "version": "1.1",
+  "theme": {
+    "colors" : {
+      "bookmark_text": [83,73,62],
+      "frame": [92,82,73],
+      "ntp_background": [235,234,211],
+      "ntp_link": [83,73,62],
+      "ntp_section": [158,163,139,1],
+      "ntp_section_link": [83,73,62],
+      "ntp_section_text": [83,73,62],
+      "ntp_text": [83,73,62],
+      "tab_background_text": [150,150,150],
+      "tab_text": [250,250,250],
+      "toolbar": [158,163,139]
+    },
+    "images": {
+      "theme_button_background": "images/theme_button_background.png",
+      "theme_frame": "images/theme_frame.png",
+      "theme_tab_background": "images/theme_tab_background.png",
+      "theme_toolbar": "images/theme_toolbar.png"
+    },
+    "tints": {
+      "buttons": [0.136,0.056,0.5]
+   }
+  }
+}
